@@ -1,0 +1,19 @@
+r = float(input("masukkan panjang sisi : "))
+
+keliling_persegi = 4*r
+luas_persegi = r*r
+
+print("jadi keliling perseginya adalah : "+ str(keliling_persegi))
+print("jadi luas perseginya adalah : " + str(luas_persegi))
+
+Float
+#Fungsi float mengembalikan bilangan ke dalam bentuk float (bilangan dengan titik).
+
+Input
+#Fungsi input digunakan untuk membaca baris input dan mengembalikannya dalam bentuk string.
+
+Print
+#Fungsi print digunakan untuk mencetak atau menampilkan objek ke perangkat output seperti layar atau ke file teks
+
+Str
+#String merupakan tipe untuk objek berupa teks (kata/kalimat).
